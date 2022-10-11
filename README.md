@@ -12,13 +12,9 @@ This repository contains:
 2. input file to reproduce the simulations reported in the paper
 
 #### Requirements
-- Pytorch and LibTorch (v == 1.4)
+- Pytorch and LibTorch
 - PLUMED2
-To import the model from Pytorch to PLUMED we have used the interface developed by Luigi Bonati and available here https://github.com/luigibonati/data-driven-CVs.git
-<!--
-#### Code and results availability
-The code and input files are available also on the [PLUMED-NEST](https://www.plumed-nest.org/eggs/20/004/) archive while the results of the simulations are available in the [Materials Cloud repository](https://archive.materialscloud.org/2020.0035/v1).-->
-
+To import the model from Pytorch to PLUMED we have used the interface developed by Luigi Bonati and available [here](https://www.plumed.org/doc-master/user-doc/html/_p_y_t_o_r_c_h.html)
 
 #### Contact
-If you have comments or questions please send an email to umberto raucci[at] iit it .
+If you have comments or questions please send an email to umbertoraucci [at] yahoo it 
