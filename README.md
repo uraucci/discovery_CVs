@@ -1,6 +1,6 @@
 # Discover, Sample and Refine: Exploring Chemistry with Enhanced Sampling Techniques                                                                                                                  
-#### Umberto Raucci, Valerio Rizzi, and Michele Parrinello, ChemRxiv DOI: 10.26434/chemrxiv-2021-qm95t_
-
+#### Umberto Raucci, Valerio Rizzi, and Michele Parrinello
+[J. Phys. Chem. Lett. 2022, 13, 6, 1424–1430](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03993)
 <!--
 [![DOI](http://img.shields.io/badge/DOI-10.1021%2Facs.jpclett.0c00535-yellow)](https://doi.org/10.1021/acs.jpclett.0c00535)
 [![arXiv](https://img.shields.io/badge/arXiv-2002.06562-critical)](https://arxiv.org/abs/2002.06562)

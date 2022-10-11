@@ -106,7 +106,8 @@ def cv(filename,nm,r0_data):
              arg.append(aij)
          print()
        print()
-       print("cv: PYTORCH_MODEL MODEL="+str(len(index)).zfill(2)+"_cv.pt ARG=",*arg,sep = ',')
+       print("cv: PYTORCH_MODEL FILE="+str(len(index)).zfill(2)+"_cv.pt ARG=",*arg,sep = ',')
+#       print("cv: PYTORCH_MODEL MODEL="+str(len(index)).zfill(2)+"_cv.pt ARG=",*arg,sep = ',')     # for pytorch 1.5
        print()
        print("opes: OPES_METAD_EXPLORE ...")
        print("   ARG=cv.*")
